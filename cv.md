@@ -11,12 +11,12 @@ About Me
 I am 22 years old, I work as java developer. I think that my actual job will lead me to stagnation some day or other. I really need in activities where I can develop during my life. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
 -------------------------
 * My strengths:
-========================
-    1 Quick learner
-    2 Full immersion in the essence of the problems
-    3 Diligence
-    4 Team playing
-	> Keep learning…
+
+    1. Quick learner
+    2. Full immersion in the essence of the problems
+    3. Diligence
+    4. Team playing
+> Keep learning…
 -------------------------
 # Skills summary
 * Programming Languages:	 C++, Java, HTML, SQL, XML, Assembler, Bash, Shell, VBA, Cobol, Assembler for z\OS, Python, JCL, PL/I
@@ -46,7 +46,7 @@ I am 22 years old, I work as java developer. I think that my actual job will lea
 
 
     }
-	>
+	
 # Education
 *	Belarusian State University of Informatics and Radioelectronics, the Faculty of Information Technology and Management, Specialization in “Automated information processing systems”, Belarus, Minsk, 2017-2021. 
 *	Belarus, Minsk, IBA, Courses “Multi-platform programming ", 2019
@@ -61,8 +61,8 @@ I am 22 years old, I work as java developer. I think that my actual job will lea
 *	Stepik course “Test Automation Using Python and Selenium”
 #Languages
 
-    1 Russian - native speaker.
-    2 English - Intermediate
+    1. Russian - native speaker.
+    2. English - Intermediate
 
 
 
