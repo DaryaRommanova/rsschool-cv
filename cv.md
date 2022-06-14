@@ -12,10 +12,10 @@ I am 22 years old, I work as java developer. I think that my actual job will lea
 -------------------------
 * My strengths:
 
-    1. Quick learner
-    2. Full immersion in the essence of the problems
-    3. Diligence
-    4. Team playing
+1. Quick learner
+2. Full immersion in the essence of the problems
+3. Diligence
+4. Team playing
 > Keep learning…
 -------------------------
 # Skills summary
@@ -59,10 +59,10 @@ I am 22 years old, I work as java developer. I think that my actual job will lea
 *	Course in Institute IBA “”Programming Fundamentals in Python”
 *	Stepik course “Python programming”
 *	Stepik course “Test Automation Using Python and Selenium”
-#Languages
+# Languages
 
-    1. Russian - native speaker.
-    2. English - Intermediate
+1. Russian - native speaker.
+2. English - Intermediate
 
 
 
